@@ -1,4 +1,4 @@
-dckage com.flipkart;
+package com.flipkart;
 
 /**
  * Hello world!
@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
+	System.out.println( "Maven Test"   );
     }
 }

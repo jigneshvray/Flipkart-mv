@@ -1,4 +1,4 @@
-dckage com.flipkart;
+package com.flipkart;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
